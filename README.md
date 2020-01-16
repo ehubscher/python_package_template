@@ -17,7 +17,7 @@ Welcome to namespace_name_package_name!
 To install this package, simply;
 
 1. Make sure you have Python `3.7.x` or higher and Pip installed on your machine.
-2. Type into the terminal: `pip install --extra-index-url http://autops-mtl-artifactory/api/pypi/autops-mtl-pypi/simple --trusted-host autops-mtl-artifactory namespace_name_package_name`
+2. Type into the terminal: `pip install namespace_name_package_name`
 
 ## Usage <a name='usage'></a>
 
