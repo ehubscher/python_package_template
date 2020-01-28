@@ -14,7 +14,7 @@ Welcome to namespace_name_package_name!
 
 #### NOTE: Be sure to have a Gitlab account active as well as SSH keys associated with the account to ensure secure cloning.
 
-To install this package, simply;
+To install this package, simply:
 
 1. Make sure you have Python `3.7.x` or higher and Pip installed on your machine.
 2. Type into the terminal: `pip install namespace_name_package_name`
